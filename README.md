@@ -484,14 +484,12 @@ python src/eval.py --hf-dataset OmerXYZ/comgenvid --params precomputed/my_params
 If you find this work useful in your research, please consider citing us:
 
 ```bibtex
-@inproceedings{hayun2026trainingfreedetectiongeneratedvideos,
-  title     = {Training-free Detection of Generated Videos via Spatial-Temporal Likelihoods},
-  author    = {{Ben Hayun}, Omer and Betser, Roy and Levi, Meir Yossef and Kassel, Levi and Gilboa, Guy},
-  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  year      = {2026},
-  eprint    = {2603.15026},
-  archivePrefix = {arXiv},
-  primaryClass  = {cs.CV},
-  url       = {https://arxiv.org/abs/2603.15026},
+@InProceedings{Ben_Hayun_2026_CVPR,
+    author    = {Ben Hayun, Omer and Betser, Roy and Levi, Meir Yossef and Kassel, Levi and Gilboa, Guy},
+    title     = {Training-free Detection of Generated Videos via Spatial-Temporal Likelihoods},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2026},
+    pages     = {16299-16310}
 }
 ```
